@@ -1,5 +1,5 @@
 +++
-title = "Genital Autonomy"
+title = "Genital Autonomy FYI"
 template = "index.html"
 +++
 
